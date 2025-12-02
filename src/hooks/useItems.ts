@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import type { Item } from '../types/Item';
+import itemsData from '../data/items.json';
 
 export function useItems() {
   const [items, setItems] = useState<Item[]>([]);
@@ -7,25 +8,17 @@ export function useItems() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    let cancelled = false;
-    async function load() {
-      setLoading(true);
-      setError(null);
+    const timer = setTimeout(() => {
       try {
-        const res = await fetch('/src/data/items.json');
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = (await res.json()) as Item[];
-        if (!cancelled) setItems(data);
+        setItems(itemsData as Item[]);
+        setLoading(false);
       } catch (e) {
-        if (!cancelled) setError((e as Error).message);
-      } finally {
-        if (!cancelled) setLoading(false);
+        setError('Failed to load items');
+        setLoading(false);
       }
-    }
-    load();
-    return () => {
-      cancelled = true;
-    };
+    }, 500);
+
+    return () => clearTimeout(timer);
   }, []);
 
   return { items, loading, error };
