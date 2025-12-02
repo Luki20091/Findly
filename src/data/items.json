@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "1",
+    "name": "Czarny Portfel",
+    "description": "Skórzany portfel z niebieskim paskiem",
+    "date": "2025-11-20",
+    "location": "Park Centralny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "2",
+    "name": "Klucze",
+    "description": "Brelok z małym Pikachu",
+    "date": "2025-11-22",
+    "location": "Biblioteka Główna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "3",
+    "name": "Plecak",
+    "description": "Szary plecak z przegrodą na laptopa",
+    "date": "2025-11-25",
+    "location": "Dworzec Autobusowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "4",
+    "name": "iPhone 13",
+    "description": "Niebieskie etui, pęknięte szkło ochronne",
+    "date": "2025-11-26",
+    "location": "Kawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "5",
+    "name": "Parasol",
+    "description": "Czerwony parasol z drewnianą rączką",
+    "date": "2025-11-27",
+    "location": "Stacja Metra",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "6",
+    "name": "Złoty Zegarek",
+    "description": "Zegarek marki Casio na złotej bransolecie",
+    "date": "2025-11-28",
+    "location": "Galeria Mokotów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "7",
+    "name": "Słuchawki JBL",
+    "description": "Niebieskie słuchawki nauszne, lekko porysowane",
+    "date": "2025-11-28",
+    "location": "Autobus 503",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "8",
+    "name": "Czapka zimowa",
+    "description": "Szara wełniana czapka z pomponem",
+    "date": "2025-11-29",
+    "location": "Park Łazienkowski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "9",
+    "name": "Legitymacja studencka",
+    "description": "Legitymacja UW, znaleziono w etui",
+    "date": "2025-11-29",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "10",
+    "name": "Szalik w kratę",
+    "description": "Czerwono-czarny szalik, długi",
+    "date": "2025-11-30",
+    "location": "Kino Muranów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "11",
+    "name": "Rękawiczki skórzane",
+    "description": "Czarne, damskie rękawiczki, rozmiar S",
+    "date": "2025-11-30",
+    "location": "Restauracja Sphinx",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "12",
+    "name": "Powerbank Xiaomi",
+    "description": "Srebrny powerbank 10000mAh",
+    "date": "2025-12-01",
+    "location": "Pociąg do Gdańska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "13",
+    "name": "Książka 'Wiedźmin'",
+    "description": "Ostatnie życzenie, wydanie kieszonkowe",
+    "date": "2025-12-01",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "14",
+    "name": "Okulary korekcyjne",
+    "description": "Czarne oprawki RayBan",
+    "date": "2025-12-01",
+    "location": "Biblioteka Publiczna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "15",
+    "name": "Torba sportowa",
+    "description": "Torba Nike, czarna z białym logo",
+    "date": "2025-12-02",
+    "location": "Siłownia CityFit",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "16",
+    "name": "Kluczyki do Toyoty",
+    "description": "Kluczyk z pilotem i brelokiem 'Dom'",
+    "date": "2025-12-02",
+    "location": "Parking podziemny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "17",
+    "name": "Maskotka Miś",
+    "description": "Mały brązowy miś, wygląda na ulubioną zabawkę",
+    "date": "2025-12-02",
+    "location": "Plac zabaw",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "18",
+    "name": "Bidon na wodę",
+    "description": "Metalowy bidon, kolor miętowy",
+    "date": "2025-11-25",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "19",
+    "name": "Ładowarka do laptopa",
+    "description": "Zasilacz Dell, czarny",
+    "date": "2025-11-26",
+    "location": "Coworking Space",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "20",
+    "name": "Karta miejska",
+    "description": "Karta imienna, znaleziona przy kasowniku",
+    "date": "2025-11-27",
+    "location": "Tramwaj 17",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "21",
+    "name": "Słuchawki AirPods",
+    "description": "Prawa słuchawka w etui ładującym",
+    "date": "2025-11-28",
+    "location": "Schody ruchome",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "22",
+    "name": "Zeszyt A4",
+    "description": "Zeszyt w kratkę, notatki z matematyki",
+    "date": "2025-11-29",
+    "location": "Szkoła Podstawowa nr 5",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "23",
+    "name": "Piórnik",
+    "description": "Różowy piórnik z wyposażeniem",
+    "date": "2025-11-30",
+    "location": "Świetlica szkolna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "24",
+    "name": "Kurtka jeansowa",
+    "description": "Jasny jeans, rozmiar M",
+    "date": "2025-12-01",
+    "location": "Klubokawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "25",
+    "name": "Buty sportowe",
+    "description": "Adidas, białe, zostawione w szatni",
+    "date": "2025-12-02",
+    "location": "Basen Miejski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "26",
+    "name": "Tablet Samsung",
+    "description": "Czarny tablet w etui z klawiaturą",
+    "date": "2025-11-24",
+    "location": "Pociąg Intercity",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "27",
+    "name": "Aparat Instax",
+    "description": "Miętowy aparat natychmiastowy",
+    "date": "2025-11-25",
+    "location": "Park Fontann",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "28",
+    "name": "Dron DJI",
+    "description": "Mały dron, znaleziony w krzakach",
+    "date": "2025-11-26",
+    "location": "Pole Mokotowskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "29",
+    "name": "Hulajnoga",
+    "description": "Hulajnoga tradycyjna, niebieska",
+    "date": "2025-11-27",
+    "location": "Stojak na rowery",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "30",
+    "name": "Kask rowerowy",
+    "description": "Czarny kask, pęknięty pasek",
+    "date": "2025-11-28",
+    "location": "Ścieżka rowerowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "31",
+    "name": "Mata do jogi",
+    "description": "Fioletowa mata, zwinięta",
+    "date": "2025-11-29",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "32",
+    "name": "Termos",
+    "description": "Srebrny termos 0.5L",
+    "date": "2025-11-30",
+    "location": "Przystanek autobusowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "33",
+    "name": "Pudełko śniadaniowe",
+    "description": "Pudełko z motywem Star Wars",
+    "date": "2025-12-01",
+    "location": "Stołówka",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "34",
+    "name": "Teczka na dokumenty",
+    "description": "Czarna skórzana teczka",
+    "date": "2025-12-02",
+    "location": "Urząd Dzielnicy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "35",
+    "name": "Segregator",
+    "description": "Niebieski segregator z fakturami",
+    "date": "2025-11-23",
+    "location": "Biuro Coworkingowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "36",
+    "name": "Pilot do bramy",
+    "description": "Mały czarny pilot z dwoma przyciskami",
+    "date": "2025-11-24",
+    "location": "Chodnik przy osiedlu",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "37",
+    "name": "Smoczek",
+    "description": "Smoczek uspokajający, niebieski",
+    "date": "2025-11-25",
+    "location": "Alejka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "38",
+    "name": "Płaszcz przeciwdeszczowy",
+    "description": "Żółty płaszcz, rozmiar dziecięcy",
+    "date": "2025-11-26",
+    "location": "Przedszkole",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "39",
+    "name": "Sweter wełniany",
+    "description": "Beżowy sweter, gruby splot",
+    "date": "2025-11-27",
+    "location": "Wieszak w kawiarni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "40",
+    "name": "Bluza z kapturem",
+    "description": "Czarna bluza z napisem 'NASA'",
+    "date": "2025-11-28",
+    "location": "Boisko szkolne",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "41",
+    "name": "Koszula w kratę",
+    "description": "Flanelowa koszula, czerwona",
+    "date": "2025-11-29",
+    "location": "Pralnia samoobsługowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "42",
+    "name": "Spodnie dresowe",
+    "description": "Szare dresy, znalezione w torbie",
+    "date": "2025-11-30",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "43",
+    "name": "Sukienka letnia",
+    "description": "Kwiatowa sukienka, zostawiona w przymierzalni",
+    "date": "2025-12-01",
+    "location": "Sklep odzieżowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "44",
+    "name": "Pierścionek srebrny",
+    "description": "Srebrny pierścionek z małym oczkiem",
+    "date": "2025-12-02",
+    "location": "Umywalka w toalecie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "45",
+    "name": "Naszyjnik",
+    "description": "Złoty łańcuszek, zerwany",
+    "date": "2025-11-22",
+    "location": "Parkiet w klubie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "46",
+    "name": "Kolczyk",
+    "description": "Pojedynczy kolczyk, koło",
+    "date": "2025-11-23",
+    "location": "Chodnik",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "47",
+    "name": "Czytnik Kindle",
+    "description": "Czarny czytnik w skórzanym etui",
+    "date": "2025-11-24",
+    "location": "Ławka na peronie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "48",
+    "name": "Statyw do aparatu",
+    "description": "Mały statyw typu gorilla pod",
+    "date": "2025-11-25",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "49",
+    "name": "Deskorolka",
+    "description": "Deskorolka z kolorowym spodem",
+    "date": "2025-11-26",
+    "location": "Skatepark",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "50",
+    "name": "Piłka do kosza",
+    "description": "Piłka Spalding, pomarańczowa",
+    "date": "2025-11-27",
+    "location": "Boisko osiedlowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "51",
+    "name": "Rakietka do tenisa",
+    "description": "Rakietka Wilson, pęknięty naciąg",
+    "date": "2025-11-28",
+    "location": "Kort tenisowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "52",
+    "name": "Dowód osobisty",
+    "description": "Znaleziono dowód na nazwisko Kowalski",
+    "date": "2025-11-29",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "53",
+    "name": "Paszport",
+    "description": "Paszport polski, zgubiony w strefie odlotów",
+    "date": "2025-11-30",
+    "location": "Lotnisko Chopina",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "54",
+    "name": "Karta bankomatowa",
+    "description": "Karta VISA, znaleziona w bankomacie",
+    "date": "2025-12-01",
+    "location": "Bankomat Euronet",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "55",
+    "name": "Recepta",
+    "description": "Papierowa recepta od lekarza",
+    "date": "2025-12-02",
+    "location": "Apteka Całodobowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "56",
+    "name": "Dokumenty",
+    "description": "Znaleziono na ławce, marki xiaomi",
+    "date": "2025-11-27",
+    "location": "Promenada",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "57",
+    "name": "Portfel",
+    "description": "Marki Reebok, kolor brązowy",
+    "date": "2025-11-04",
+    "location": "Złote Tarasy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "58",
+    "name": "Scyzoryk",
+    "description": "Marki Adidas, kolor zielony",
+    "date": "2025-12-02",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "59",
+    "name": "Naszyjnik",
+    "description": "Marki Xiaomi, zostawione w taksówce",
+    "date": "2025-11-21",
+    "location": "Chodnik przy osiedlu",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "60",
+    "name": "Rower",
+    "description": "Kolor niebieski, zostawione w taksówce",
+    "date": "2025-11-16",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "61",
+    "name": "Teczka",
+    "description": "Kolor czarny, drewniane",
+    "date": "2025-11-10",
+    "location": "Świetlica szkolna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "62",
+    "name": "Zegarek sportowy",
+    "description": "Drewniane, materiałowe",
+    "date": "2025-11-03",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "63",
+    "name": "Gumka do włosów",
+    "description": "Bez etui, skórzane",
+    "date": "2025-11-22",
+    "location": "Ścieżka rowerowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "64",
+    "name": "Plecak",
+    "description": "Stare, bez etui",
+    "date": "2025-11-15",
+    "location": "Kino Muranów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "65",
+    "name": "Termos",
+    "description": "Zostawione w szatni, kolor brązowy",
+    "date": "2025-11-22",
+    "location": "Plac zabaw",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "66",
+    "name": "Klucze",
+    "description": "Marki Nike, drewniane",
+    "date": "2025-11-07",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "67",
+    "name": "Legitymacja",
+    "description": "Zostawione w tramwaju, znalezione w toalecie",
+    "date": "2025-11-18",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "68",
+    "name": "Poduszka",
+    "description": "Marki Reebok, stare",
+    "date": "2025-11-04",
+    "location": "Klubokawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "69",
+    "name": "Krokomierz",
+    "description": "Zostawione w taksówce, materiałowe",
+    "date": "2025-11-16",
+    "location": "Przystanek autobusowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "70",
+    "name": "Obiektyw",
+    "description": "Leżało na chodniku, leżało pod krzesłem",
+    "date": "2025-11-25",
+    "location": "Lotnisko Modlin",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "71",
+    "name": "Smoczek",
+    "description": "Bez breloka, nowe",
+    "date": "2025-11-22",
+    "location": "Blue City",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "72",
+    "name": "Kosmetyczka",
+    "description": "Brudne, zostawione w tramwaju",
+    "date": "2025-11-08",
+    "location": "Stołówka",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "73",
+    "name": "Namiot",
+    "description": "Czyste, bez etui",
+    "date": "2025-11-19",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "74",
+    "name": "Gumka do włosów",
+    "description": "Kolor szary, kolor zielony",
+    "date": "2025-11-29",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "75",
+    "name": "Karta miejska",
+    "description": "Znalezione w toalecie, marki puma",
+    "date": "2025-11-30",
+    "location": "Stacja Metra",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "76",
+    "name": "Tablet",
+    "description": "Zostawione na stoliku, wzór w paski",
+    "date": "2025-11-07",
+    "location": "Parkiet w klubie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "77",
+    "name": "Bransoletka",
+    "description": "Znalezione w toalecie, znalezione w metrze",
+    "date": "2025-11-16",
+    "location": "Tramwaj 17",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "78",
+    "name": "Bidon",
+    "description": "Bez etui, marki nike",
+    "date": "2025-11-29",
+    "location": "Boisko osiedlowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "79",
+    "name": "Kocyk",
+    "description": "Lekko zniszczone, zostawione w taksówce",
+    "date": "2025-11-25",
+    "location": "Parking podziemny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "80",
+    "name": "Kabel USB",
+    "description": "Metalowe, marki reebok",
+    "date": "2025-11-12",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "81",
+    "name": "Okulary",
+    "description": "Materiałowe, materiałowe",
+    "date": "2025-11-13",
+    "location": "Umywalka w toalecie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "82",
+    "name": "Buty",
+    "description": "Znalezione w parku, kolor szary",
+    "date": "2025-11-10",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "83",
+    "name": "Puder",
+    "description": "Marki Reebok, w etui",
+    "date": "2025-12-01",
+    "location": "Pociąg do Gdańska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "84",
+    "name": "Biżuteria",
+    "description": "Bez breloka, kolor czerwony",
+    "date": "2025-12-01",
+    "location": "Pociąg Intercity",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "85",
+    "name": "Latarka",
+    "description": "Zostawione na stoliku, marki adidas",
+    "date": "2025-11-07",
+    "location": "Stacja Metra",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "86",
+    "name": "Rower",
+    "description": "Zostawione na stoliku, materiałowe",
+    "date": "2025-11-08",
+    "location": "Teatr Wielki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "87",
+    "name": "Leki",
+    "description": "Z brelokiem, kolor zielony",
+    "date": "2025-11-03",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "88",
+    "name": "Długopis",
+    "description": "Kolor biały, marki adidas",
+    "date": "2025-11-03",
+    "location": "ZOO Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "89",
+    "name": "Statyw",
+    "description": "Zgubione w sklepie, drewniane",
+    "date": "2025-11-24",
+    "location": "Kawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "90",
+    "name": "Krokomierz",
+    "description": "Znalezione w toalecie, metalowe",
+    "date": "2025-11-12",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "91",
+    "name": "Okulary",
+    "description": "Drewniane, leżało na chodniku",
+    "date": "2025-11-06",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "92",
+    "name": "Puder",
+    "description": "Drewniane, szklane",
+    "date": "2025-11-09",
+    "location": "Złote Tarasy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "93",
+    "name": "Namiot",
+    "description": "Kolor żółty, bez breloka",
+    "date": "2025-11-22",
+    "location": "Stadion Narodowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "94",
+    "name": "Puder",
+    "description": "Kolor biały, zostawione w tramwaju",
+    "date": "2025-11-07",
+    "location": "Parkiet w klubie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "95",
+    "name": "Dron",
+    "description": "Leżało na chodniku, wzór w kratkę",
+    "date": "2025-11-12",
+    "location": "Legia Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "96",
+    "name": "Zapalniczka",
+    "description": "Kolor brązowy, zgubione na spacerze",
+    "date": "2025-11-16",
+    "location": "Boisko osiedlowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "97",
+    "name": "Plecak",
+    "description": "Kolor żółty, zgubione na spacerze",
+    "date": "2025-12-01",
+    "location": "Przystanek autobusowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "98",
+    "name": "Krokomierz",
+    "description": "Zostawione w taksówce, wzór w paski",
+    "date": "2025-11-03",
+    "location": "Dworzec Zachodni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "99",
+    "name": "Aparat",
+    "description": "Nowe, znalezione w metrze",
+    "date": "2025-11-04",
+    "location": "Chodnik przy osiedlu",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "100",
+    "name": "Krokomierz",
+    "description": "Lekko zniszczone, wzór w kratkę",
+    "date": "2025-11-09",
+    "location": "Dworzec Centralny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "101",
+    "name": "Dowód osobisty",
+    "description": "Znalezione w pociągu, kolor biały",
+    "date": "2025-12-02",
+    "location": "Plac zabaw",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "102",
+    "name": "Segregator",
+    "description": "W etui, szklane",
+    "date": "2025-11-21",
+    "location": "Siłownia CityFit",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "103",
+    "name": "Ochraniacze",
+    "description": "Marki Puma, zostawione w taksówce",
+    "date": "2025-11-06",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "104",
+    "name": "Naszyjnik",
+    "description": "Marki 4F, leżało na chodniku",
+    "date": "2025-11-26",
+    "location": "Pociąg Intercity",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "105",
+    "name": "Rakietka",
+    "description": "Marki Apple, nowe",
+    "date": "2025-11-30",
+    "location": "Muzeum Narodowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "106",
+    "name": "Puder",
+    "description": "Drewniane, kolor szary",
+    "date": "2025-11-21",
+    "location": "Alejka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "107",
+    "name": "Dowód osobisty",
+    "description": "Czyste, kolor brązowy",
+    "date": "2025-11-24",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "108",
+    "name": "Paszport",
+    "description": "Marki Samsung, marki nike",
+    "date": "2025-11-27",
+    "location": "Pałac Kultury i Nauki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "109",
+    "name": "Czapka",
+    "description": "Zostawione w szatni, marki apple",
+    "date": "2025-11-27",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "110",
+    "name": "Statyw",
+    "description": "Kolor biały, znalezione w pociągu",
+    "date": "2025-11-21",
+    "location": "Stacja Metra",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "111",
+    "name": "Hulajnoga",
+    "description": "Znalezione przy kasie, marki puma",
+    "date": "2025-11-15",
+    "location": "Pole Mokotowskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "112",
+    "name": "Kocyk",
+    "description": "Stare, kolor biały",
+    "date": "2025-11-14",
+    "location": "Galeria Mokotów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "113",
+    "name": "Leki",
+    "description": "Zgubione na spacerze, szklane",
+    "date": "2025-12-01",
+    "location": "Opera Narodowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "114",
+    "name": "Namiot",
+    "description": "Zgubione w sklepie, materiałowe",
+    "date": "2025-12-01",
+    "location": "Biblioteka Główna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "115",
+    "name": "Piłka",
+    "description": "Zostawione w szatni, bez breloka",
+    "date": "2025-11-26",
+    "location": "Dworzec Zachodni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "116",
+    "name": "Latarka",
+    "description": "Kolor niebieski, kolor czarny",
+    "date": "2025-11-30",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "117",
+    "name": "Długopis",
+    "description": "Kolor czarny, marki adidas",
+    "date": "2025-11-14",
+    "location": "Arkadia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "118",
+    "name": "Książka",
+    "description": "Bez breloka, kolor biały",
+    "date": "2025-11-18",
+    "location": "Park Centralny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "119",
+    "name": "Dron",
+    "description": "Drewniane, marki samsung",
+    "date": "2025-11-30",
+    "location": "ZOO Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "120",
+    "name": "Klucze",
+    "description": "Kolor niebieski, metalowe",
+    "date": "2025-11-03",
+    "location": "Galeria Północna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "121",
+    "name": "Dokumenty",
+    "description": "Kolor biały, drewniane",
+    "date": "2025-11-16",
+    "location": "Stacja Metra",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "122",
+    "name": "Dokumenty",
+    "description": "Marki Samsung, znalezione w pociągu",
+    "date": "2025-11-05",
+    "location": "Basen Miejski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "123",
+    "name": "Parasol",
+    "description": "Kolor brązowy, materiałowe",
+    "date": "2025-11-30",
+    "location": "Park Centralny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "124",
+    "name": "Książka",
+    "description": "Skórzane, zgubione na spacerze",
+    "date": "2025-11-12",
+    "location": "Sklep odzieżowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "125",
+    "name": "Dowód osobisty",
+    "description": "Znalezione przy kasie, kolor żółty",
+    "date": "2025-11-29",
+    "location": "Alejka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "126",
+    "name": "Segregator",
+    "description": "Leżało na chodniku, zostawione w autobusie",
+    "date": "2025-11-23",
+    "location": "Pole Mokotowskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "127",
+    "name": "Kolczyki",
+    "description": "Znalezione przy kasie, metalowe",
+    "date": "2025-11-08",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "128",
+    "name": "Nosidełko",
+    "description": "Znalezione w pociągu, kolor niebieski",
+    "date": "2025-11-11",
+    "location": "Ścieżka rowerowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "129",
+    "name": "Zeszyt",
+    "description": "Zgubione na spacerze, marki adidas",
+    "date": "2025-11-19",
+    "location": "Arkadia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "130",
+    "name": "E-papieros",
+    "description": "Marki Apple, kolor czarny",
+    "date": "2025-11-06",
+    "location": "Coworking Space",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "131",
+    "name": "Długopis",
+    "description": "Znalezione w metrze, kolor biały",
+    "date": "2025-11-15",
+    "location": "Teatr Wielki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "132",
+    "name": "Scyzoryk",
+    "description": "Marki Adidas, szklane",
+    "date": "2025-11-19",
+    "location": "Pralnia samoobsługowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "133",
+    "name": "Segregator",
+    "description": "W etui, wzór w kratkę",
+    "date": "2025-11-13",
+    "location": "Parking podziemny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "134",
+    "name": "Opaska",
+    "description": "Wzór w kratkę, kolor żółty",
+    "date": "2025-11-24",
+    "location": "Muzeum Powstania Warszawskiego",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "135",
+    "name": "Smartband",
+    "description": "Kolor szary, bez etui",
+    "date": "2025-11-03",
+    "location": "Filharmonia Narodowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "136",
+    "name": "Buty",
+    "description": "Kolor czarny, znalezione w pociągu",
+    "date": "2025-12-01",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "137",
+    "name": "Maskotka",
+    "description": "Kolor brązowy, marki adidas",
+    "date": "2025-11-30",
+    "location": "Pociąg do Gdańska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "138",
+    "name": "Laptop",
+    "description": "Leżało na chodniku, stare",
+    "date": "2025-11-28",
+    "location": "Centrum Nauki Kopernik",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "139",
+    "name": "Zabawka",
+    "description": "Marki Samsung, marki samsung",
+    "date": "2025-11-06",
+    "location": "Ścieżka rowerowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "140",
+    "name": "Bidon",
+    "description": "Nowe, wzór w kratkę",
+    "date": "2025-11-05",
+    "location": "Boisko osiedlowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "141",
+    "name": "Karta miejska",
+    "description": "Kolor biały, kolor zielony",
+    "date": "2025-11-12",
+    "location": "ZOO Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "142",
+    "name": "Paszport",
+    "description": "W etui, wypadło z kieszeni",
+    "date": "2025-11-19",
+    "location": "Pociąg Intercity",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "143",
+    "name": "Leki",
+    "description": "Materiałowe, kolor żółty",
+    "date": "2025-11-23",
+    "location": "Teatr Wielki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "144",
+    "name": "Rękawiczki",
+    "description": "Metalowe, kolor biały",
+    "date": "2025-11-13",
+    "location": "Boisko osiedlowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "145",
+    "name": "Szalik",
+    "description": "W etui, skórzane",
+    "date": "2025-11-24",
+    "location": "Filharmonia Narodowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "146",
+    "name": "Teczka",
+    "description": "Marki Apple, kolor zielony",
+    "date": "2025-11-04",
+    "location": "Biblioteka Publiczna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "147",
+    "name": "Kabel USB",
+    "description": "Kolor szary, znalezione w parku",
+    "date": "2025-11-22",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "148",
+    "name": "Wózek",
+    "description": "Marki Xiaomi, bez breloka",
+    "date": "2025-11-11",
+    "location": "Biblioteka Główna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "149",
+    "name": "Latarka",
+    "description": "Kolor biały, kolor szary",
+    "date": "2025-11-26",
+    "location": "Filharmonia Narodowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "150",
+    "name": "Książka",
+    "description": "Kolor niebieski, bez breloka",
+    "date": "2025-11-22",
+    "location": "Galeria Wileńska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "151",
+    "name": "Śpiwór",
+    "description": "Drewniane, znalezione w parku",
+    "date": "2025-12-02",
+    "location": "Przedszkole",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "152",
+    "name": "Leki",
+    "description": "Szklane, zostawione w szatni",
+    "date": "2025-11-24",
+    "location": "Teatr Wielki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "153",
+    "name": "Wózek",
+    "description": "Zostawione w szatni, marki puma",
+    "date": "2025-11-03",
+    "location": "Wieszak w kawiarni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "154",
+    "name": "Nosidełko",
+    "description": "Marki Samsung, bez etui",
+    "date": "2025-12-02",
+    "location": "Lotnisko Chopina",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "155",
+    "name": "Namiot",
+    "description": "Metalowe, marki nike",
+    "date": "2025-12-02",
+    "location": "Przedszkole",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "156",
+    "name": "Buty",
+    "description": "Marki Xiaomi, zostawione w taksówce",
+    "date": "2025-11-28",
+    "location": "Filharmonia Narodowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "157",
+    "name": "Kask",
+    "description": "Zostawione w tramwaju, marki samsung",
+    "date": "2025-11-07",
+    "location": "Lotnisko Modlin",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "158",
+    "name": "Smartband",
+    "description": "Lekko zniszczone, skórzane",
+    "date": "2025-11-26",
+    "location": "Pociąg Intercity",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "159",
+    "name": "Poduszka",
+    "description": "Kolor szary, marki 4f",
+    "date": "2025-11-15",
+    "location": "Wola Park",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "160",
+    "name": "Segregator",
+    "description": "Marki Apple, zostawione w szatni",
+    "date": "2025-11-15",
+    "location": "Stojak na rowery",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "161",
+    "name": "Śpiwór",
+    "description": "Skórzane, wzór w kratkę",
+    "date": "2025-11-30",
+    "location": "Biblioteka Publiczna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "162",
+    "name": "Wózek",
+    "description": "Wypadło z kieszeni, kolor czarny",
+    "date": "2025-11-25",
+    "location": "Łazienki Królewskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "163",
+    "name": "Telefon",
+    "description": "Kolor niebieski, marki reebok",
+    "date": "2025-11-09",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "164",
+    "name": "Gumka do włosów",
+    "description": "Zostawione w tramwaju, znalezione w metrze",
+    "date": "2025-11-11",
+    "location": "Parkiet w klubie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "165",
+    "name": "Ochraniacze",
+    "description": "Znalezione w parku, zostawione w taksówce",
+    "date": "2025-12-01",
+    "location": "Biblioteka Główna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "166",
+    "name": "Bidon",
+    "description": "Zgubione na spacerze, bez breloka",
+    "date": "2025-12-01",
+    "location": "Restauracja Sphinx",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "167",
+    "name": "Powerbank",
+    "description": "Materiałowe, z brelokiem",
+    "date": "2025-11-05",
+    "location": "Dworzec Wschodni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "168",
+    "name": "Statyw",
+    "description": "Kolor czerwony, marki samsung",
+    "date": "2025-11-07",
+    "location": "Park Centralny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "169",
+    "name": "Parasol",
+    "description": "Marki Nike, zostawione w szatni",
+    "date": "2025-11-23",
+    "location": "Apteka Całodobowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "170",
+    "name": "Pudełko",
+    "description": "Zostawione na stoliku, zostawione w taksówce",
+    "date": "2025-11-16",
+    "location": "Apteka Całodobowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "171",
+    "name": "Krokomierz",
+    "description": "Kolor żółty, wzór w paski",
+    "date": "2025-11-11",
+    "location": "Basen Miejski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "172",
+    "name": "Laptop",
+    "description": "Nowe, kolor czarny",
+    "date": "2025-11-06",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "173",
+    "name": "Dowód osobisty",
+    "description": "Zgubione na spacerze, kolor niebieski",
+    "date": "2025-11-05",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "174",
+    "name": "Szminka",
+    "description": "Kolor czarny, szklane",
+    "date": "2025-11-12",
+    "location": "Bankomat Euronet",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "175",
+    "name": "Perfumy",
+    "description": "Znalezione przy kasie, z brelokiem",
+    "date": "2025-11-09",
+    "location": "Ogród Botaniczny",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "176",
+    "name": "Recepta",
+    "description": "Szklane, marki nike",
+    "date": "2025-11-15",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "177",
+    "name": "E-papieros",
+    "description": "Wzór w paski, kolor szary",
+    "date": "2025-11-18",
+    "location": "Chodnik przy osiedlu",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "178",
+    "name": "Telefon",
+    "description": "Znalezione w toalecie, kolor biały",
+    "date": "2025-11-21",
+    "location": "Ławka na peronie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "179",
+    "name": "Torba",
+    "description": "Zostawione w autobusie, z brelokiem",
+    "date": "2025-11-16",
+    "location": "Chodnik",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "180",
+    "name": "Tablet",
+    "description": "Czyste, z brelokiem",
+    "date": "2025-11-22",
+    "location": "Park Fontann",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "181",
+    "name": "Bidon",
+    "description": "Zostawione w szatni, skórzane",
+    "date": "2025-11-27",
+    "location": "Park Fontann",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "182",
+    "name": "Obiektyw",
+    "description": "Plastikowe, marki 4f",
+    "date": "2025-11-17",
+    "location": "Legia Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "183",
+    "name": "Szalik",
+    "description": "Zgubione na spacerze, kolor szary",
+    "date": "2025-11-29",
+    "location": "Szkoła Podstawowa nr 5",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "184",
+    "name": "Szalik",
+    "description": "Znalezione w parku, zgubione w sklepie",
+    "date": "2025-11-02",
+    "location": "Promenada",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "185",
+    "name": "Statyw",
+    "description": "Leżało na chodniku, leżało na chodniku",
+    "date": "2025-11-26",
+    "location": "Wola Park",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "186",
+    "name": "Kurtka",
+    "description": "Nowe, kolor czerwony",
+    "date": "2025-11-10",
+    "location": "Kawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "187",
+    "name": "E-papieros",
+    "description": "Plastikowe, wzór w paski",
+    "date": "2025-11-09",
+    "location": "Pole Mokotowskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "188",
+    "name": "Myszka",
+    "description": "Leżało pod krzesłem, marki nike",
+    "date": "2025-11-02",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "189",
+    "name": "Termos",
+    "description": "Skórzane, znaleziono na ławce",
+    "date": "2025-11-06",
+    "location": "Lotnisko Modlin",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "190",
+    "name": "Szalik",
+    "description": "Zostawione na stoliku, marki apple",
+    "date": "2025-11-19",
+    "location": "Kino Muranów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "191",
+    "name": "Hulajnoga",
+    "description": "W etui, brudne",
+    "date": "2025-11-27",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "192",
+    "name": "Obiektyw",
+    "description": "Kolor brązowy, znaleziono na ławce",
+    "date": "2025-11-27",
+    "location": "Alejka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "193",
+    "name": "Pudełko",
+    "description": "Metalowe, kolor żółty",
+    "date": "2025-11-02",
+    "location": "Schody ruchome",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "194",
+    "name": "Pierścionek",
+    "description": "Marki Apple, znalezione w toalecie",
+    "date": "2025-11-10",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "195",
+    "name": "Portfel",
+    "description": "Marki Puma, znalezione w parku",
+    "date": "2025-11-17",
+    "location": "Dworzec Zachodni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "196",
+    "name": "Hulajnoga",
+    "description": "Marki Puma, stare",
+    "date": "2025-11-29",
+    "location": "Kawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "197",
+    "name": "Pudełko",
+    "description": "Stare, zostawione w szatni",
+    "date": "2025-11-26",
+    "location": "Stołówka",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "198",
+    "name": "Dron",
+    "description": "Zostawione w autobusie, bez etui",
+    "date": "2025-11-15",
+    "location": "Świetlica szkolna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "199",
+    "name": "Kolczyki",
+    "description": "Znaleziono na ławce, znalezione w toalecie",
+    "date": "2025-11-28",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "200",
+    "name": "Czapka",
+    "description": "Marki Apple, marki reebok",
+    "date": "2025-11-16",
+    "location": "Polonia Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "201",
+    "name": "Torba",
+    "description": "Kolor zielony, lekko zniszczone",
+    "date": "2025-11-20",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "202",
+    "name": "Pudełko",
+    "description": "Szklane, marki apple",
+    "date": "2025-11-11",
+    "location": "Boisko szkolne",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "203",
+    "name": "Statyw",
+    "description": "Znalezione w parku, wypadło z kieszeni",
+    "date": "2025-11-22",
+    "location": "Galeria Północna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "204",
+    "name": "Statyw",
+    "description": "Marki Puma, bez breloka",
+    "date": "2025-11-03",
+    "location": "Reduta",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "205",
+    "name": "Recepta",
+    "description": "Marki Xiaomi, znalezione w pociągu",
+    "date": "2025-11-19",
+    "location": "Urząd Dzielnicy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "206",
+    "name": "Gumka do włosów",
+    "description": "Zostawione na stoliku, kolor niebieski",
+    "date": "2025-11-25",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "207",
+    "name": "Kurtka",
+    "description": "Bez etui, zgubione w sklepie",
+    "date": "2025-12-02",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "208",
+    "name": "Obiektyw",
+    "description": "Bez etui, kolor niebieski",
+    "date": "2025-11-09",
+    "location": "Ławka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "209",
+    "name": "Dokumenty",
+    "description": "Marki Puma, zostawione w szatni",
+    "date": "2025-11-11",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "210",
+    "name": "Torba",
+    "description": "Szklane, nowe",
+    "date": "2025-11-13",
+    "location": "Blue City",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "211",
+    "name": "Dokumenty",
+    "description": "W etui, skórzane",
+    "date": "2025-11-30",
+    "location": "Złote Tarasy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "212",
+    "name": "Kabel USB",
+    "description": "Kolor zielony, brudne",
+    "date": "2025-11-14",
+    "location": "Urząd Dzielnicy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "213",
+    "name": "Smartband",
+    "description": "Skórzane, z brelokiem",
+    "date": "2025-11-04",
+    "location": "Galeria Wileńska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "214",
+    "name": "Telefon",
+    "description": "Znaleziono na ławce, znalezione w toalecie",
+    "date": "2025-11-15",
+    "location": "Przedszkole",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "215",
+    "name": "Smoczek",
+    "description": "Zostawione w szatni, zostawione na stoliku",
+    "date": "2025-11-02",
+    "location": "Kawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "216",
+    "name": "Kask",
+    "description": "Marki Puma, marki puma",
+    "date": "2025-11-11",
+    "location": "Szatnia WF",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "217",
+    "name": "Legitymacja",
+    "description": "Metalowe, kolor brązowy",
+    "date": "2025-11-27",
+    "location": "Pole Mokotowskie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "218",
+    "name": "Piłka",
+    "description": "Zgubione na spacerze, kolor żółty",
+    "date": "2025-11-06",
+    "location": "Reduta",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "219",
+    "name": "Kocyk",
+    "description": "Marki Reebok, w etui",
+    "date": "2025-11-02",
+    "location": "Studio Jogi",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "220",
+    "name": "Papierosy",
+    "description": "Bez etui, bez breloka",
+    "date": "2025-11-22",
+    "location": "Galeria Mokotów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "221",
+    "name": "Czapka",
+    "description": "Kolor biały, marki adidas",
+    "date": "2025-11-12",
+    "location": "Pałac Kultury i Nauki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "222",
+    "name": "Bidon",
+    "description": "Zostawione w tramwaju, plastikowe",
+    "date": "2025-11-15",
+    "location": "Park Fontann",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "223",
+    "name": "Powerbank",
+    "description": "Zgubione na spacerze, wzór w kratkę",
+    "date": "2025-11-21",
+    "location": "Park Łazienkowski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "224",
+    "name": "Czapka",
+    "description": "Zgubione w sklepie, znalezione w pociągu",
+    "date": "2025-11-17",
+    "location": "Skatepark",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "225",
+    "name": "Portfel",
+    "description": "Bez breloka, zostawione w szatni",
+    "date": "2025-11-26",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "226",
+    "name": "Słuchawki",
+    "description": "Marki 4F, bez etui",
+    "date": "2025-11-26",
+    "location": "Centrum Nauki Kopernik",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "227",
+    "name": "Czapka",
+    "description": "Kolor żółty, wypadło z kieszeni",
+    "date": "2025-11-25",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "228",
+    "name": "Kosmetyczka",
+    "description": "Szklane, w etui",
+    "date": "2025-11-10",
+    "location": "Umywalka w toalecie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "229",
+    "name": "Leki",
+    "description": "Marki Adidas, czyste",
+    "date": "2025-11-02",
+    "location": "Przystanek autobusowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "230",
+    "name": "Tablet",
+    "description": "Zgubione w sklepie, znalezione w toalecie",
+    "date": "2025-11-18",
+    "location": "Restauracja Sphinx",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "231",
+    "name": "Parasol",
+    "description": "Zostawione w tramwaju, znalezione w pociągu",
+    "date": "2025-11-29",
+    "location": "Galeria Mokotów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "232",
+    "name": "Kocyk",
+    "description": "Znalezione w parku, marki 4f",
+    "date": "2025-11-19",
+    "location": "Świetlica szkolna",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "233",
+    "name": "Kurtka",
+    "description": "Zostawione na stoliku, marki adidas",
+    "date": "2025-11-11",
+    "location": "Klubokawiarnia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "234",
+    "name": "Czapka",
+    "description": "Marki Nike, zostawione w szatni",
+    "date": "2025-11-11",
+    "location": "Alejka w parku",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "235",
+    "name": "Aparat",
+    "description": "Wypadło z kieszeni, leżało pod krzesłem",
+    "date": "2025-11-06",
+    "location": "Galeria Wileńska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "236",
+    "name": "Czapka",
+    "description": "Metalowe, marki adidas",
+    "date": "2025-11-07",
+    "location": "Szkoła Podstawowa nr 5",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "237",
+    "name": "Kask",
+    "description": "Marki Samsung, kolor zielony",
+    "date": "2025-11-27",
+    "location": "Galeria Mokotów",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "238",
+    "name": "Nosidełko",
+    "description": "Zgubione na spacerze, marki puma",
+    "date": "2025-11-06",
+    "location": "Pałac Kultury i Nauki",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "239",
+    "name": "Smoczek",
+    "description": "Zostawione w tramwaju, leżało na chodniku",
+    "date": "2025-11-05",
+    "location": "Basen Miejski",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "240",
+    "name": "Rękawiczki",
+    "description": "Znalezione w parku, kolor brązowy",
+    "date": "2025-11-08",
+    "location": "Umywalka w toalecie",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "241",
+    "name": "Kosmetyczka",
+    "description": "Kolor niebieski, materiałowe",
+    "date": "2025-11-11",
+    "location": "Punkt widokowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "242",
+    "name": "Namiot",
+    "description": "Zgubione na spacerze, kolor szary",
+    "date": "2025-11-16",
+    "location": "Muzeum Narodowe",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "243",
+    "name": "Portfel",
+    "description": "Czyste, wzór w kratkę",
+    "date": "2025-11-21",
+    "location": "Urząd Skarbowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "244",
+    "name": "Karta miejska",
+    "description": "Lekko zniszczone, brudne",
+    "date": "2025-11-08",
+    "location": "Kort tenisowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "245",
+    "name": "Obiektyw",
+    "description": "Leżało na chodniku, kolor zielony",
+    "date": "2025-11-10",
+    "location": "Reduta",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "246",
+    "name": "Spinka",
+    "description": "Materiałowe, z brelokiem",
+    "date": "2025-11-06",
+    "location": "Galeria Wileńska",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "247",
+    "name": "Papierosy",
+    "description": "Znalezione w toalecie, z brelokiem",
+    "date": "2025-11-16",
+    "location": "ZOO Warszawa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "248",
+    "name": "Statyw",
+    "description": "Marki 4F, znaleziono na ławce",
+    "date": "2025-11-03",
+    "location": "Apteka Całodobowa",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "249",
+    "name": "Teczka",
+    "description": "Marki Nike, kolor szary",
+    "date": "2025-12-02",
+    "location": "Restauracja Sphinx",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "250",
+    "name": "Długopis",
+    "description": "Marki Reebok, brudne",
+    "date": "2025-11-14",
+    "location": "Schody ruchome",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "251",
+    "name": "Czapka",
+    "description": "Znalezione w metrze, marki apple",
+    "date": "2025-11-04",
+    "location": "Wieszak w kawiarni",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "252",
+    "name": "Latarka",
+    "description": "Zostawione w szatni, kolor zielony",
+    "date": "2025-11-12",
+    "location": "Sklep odzieżowy",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "253",
+    "name": "Pudełko",
+    "description": "Brudne, marki reebok",
+    "date": "2025-11-21",
+    "location": "Arkadia",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "254",
+    "name": "Segregator",
+    "description": "Plastikowe, kolor czarny",
+    "date": "2025-11-18",
+    "location": "Metro Centrum",
+    "image": "/items/no-image.svg"
+  },
+  {
+    "id": "255",
+    "name": "Parasol",
+    "description": "Marki Nike, marki reebok",
+    "date": "2025-11-25",
+    "location": "Sala wykładowa A",
+    "image": "/items/no-image.svg"
+  }
+]
